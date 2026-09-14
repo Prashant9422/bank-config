@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related local prod APIs "
   contactDetails:
     name: "Rang Nathan- Prod"
     email: "{cipher}064ddd13604f76f0f9da16b4ac4b35f9bcc2aea4145f68a282e3f3c35001884ec88ee2ceb9c98afa2a53b6096259d5f1"
