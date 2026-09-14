@@ -2,7 +2,7 @@ build:
   version: "1.O"
 
 cards:
-  message: "Welcome to EazyBank cards related local webhook prod pk APIs "
+  message: "Welcome to EazyBank cards related local webhook prod bank APIs "
   contactDetails:
     name: "M.K Nathan- Prod"
     email: "mknathan@eazybank.com"
