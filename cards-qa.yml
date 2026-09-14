@@ -1,0 +1,11 @@
+build:
+  version: "2.O"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Kali Nathan- QA"
+    email: "kalinathan@eazybank.com"
+  onCallSupport:
+    - (655) 555-1337
+    - (655) 523-1448

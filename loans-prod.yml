@@ -1,0 +1,11 @@
+build:
+  version: "1.O"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs "
+  contactDetails:
+    name: "M.K Nathan- Prod"
+    email: "mknathan@eazybank.com"
+  onCallSupport:
+    - (565) 555-1337
+    - (565) 523-1448
